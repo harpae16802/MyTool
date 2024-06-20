@@ -1,3 +1,4 @@
 dist/
 kill_node.exe用於強制關閉nodemon
 delete_git_credentials用於github憑證刪除(權限不足時候使用)
+ScreenRecorderApp/dist/用於錄製螢幕內容轉gif
