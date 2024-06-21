@@ -1,4 +1,4 @@
-('C:\\Users\\harpa\\OneDrive\\桌面\\ScreenRecorderApp\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\harpa\\OneDrive\\桌面\\Tool\\ScreenRecorderApp\\build\\main\\PYZ-00.pyz',
  [('PIL', 'C:\\Python312\\Lib\\site-packages\\PIL\\__init__.py', 'PYMODULE'),
   ('PIL.BlpImagePlugin',
    'C:\\Python312\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
